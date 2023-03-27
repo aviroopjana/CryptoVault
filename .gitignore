@@ -51,3 +51,6 @@ typechain
 #Hardhat files
 cache
 artifacts
+
+#deploy.js
+.secret
